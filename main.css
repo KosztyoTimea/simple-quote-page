@@ -14,6 +14,7 @@ body {
   color: #333;
 }
 
+
 .wrapper {
   padding-top: 4rem;
   width: 90%;
@@ -24,10 +25,14 @@ body {
 .quote {
   font-family: 'Julius Sans One', sans-serif;
   font-size: 2.5rem; 
+  position: relative;
+  top: -30px;
 }
 
 .author {
   font-family: 'Crimson Text', serif;
   font-size: 1.5rem;
   font-style: italic;
+  position: relative;
+  top: -60px;
 }
